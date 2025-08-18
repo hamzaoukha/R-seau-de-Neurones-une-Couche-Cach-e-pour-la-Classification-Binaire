@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Reports/outputs
+reports/figures/*.png
+reports/metrics/*.json
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+!data/.gitkeep
