@@ -1,0 +1,7 @@
+@online{OukhachaRepo,
+  author  = {Oukhacha, Hamza},
+  title   = {Reseau de neurones: une couche cachee pour la classification binaire},
+  year    = {2025},
+  url     = {https://github.com/hamzaoukha/BCNN_PROJECT},
+  note    = {GitHub repository},
+}
